@@ -21,9 +21,14 @@
 <img src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/28/null/external-itch-a-website-for-users-to-host-sell-and-download-indie-video-games-logo-fresh-tal-revivo.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
-<h3 align="center">Indie Game Developer & Middle Unity Programmer</h3>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=fffogil)](https://github.com/fffogil)
+<p align="center">
+<a href="https://github.com/fffogil">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fffogil" />
+</a>
+</p>
+
+<h3 align="center">Indie Game Developer & Middle Unity Programmer</h3>
   
 #### My open-source Unity tools
 * [Custom SO Icons](https://github.com/fffogil/SimpleTools-CustomSOIcons) - Simple editor addon that allows to show custom scriptable object icons in the Project view
