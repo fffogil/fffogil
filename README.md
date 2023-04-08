@@ -22,11 +22,13 @@
   </a><span>&nbsp;</span>
 </p>
 
+<!--
 <p align="center">
 <a href="https://github.com/fffogil">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fffogil" />
 </a>
 </p>
+-->
 
 <h3 align="center">Indie Game Developer & Middle Unity Programmer</h3>
   
