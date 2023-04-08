@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/44195161/230743421-2b53c933-50f0-46ad-b4a8-2b820c5957b7.png">
+</p>
+
 <h1 align="center">Hi, I'm Aleksey Bandurin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p align="center">
