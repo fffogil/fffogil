@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/44195161/230743421-2b53c933-50f0-46ad-b4a8-2b820c5957b7.png">
+  <img width="450" src="https://user-images.githubusercontent.com/44195161/230743421-2b53c933-50f0-46ad-b4a8-2b820c5957b7.png">
 </p>
 
 <h1 align="center">Hi, I'm Aleksey Bandurin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
@@ -44,9 +44,31 @@
 * [Mine & Hook](https://play.google.com/store/apps/details?id=com.ligofff.MineHook) - Mobile game about miner that trying to escape from caves that are filled with magma
 * [Random Point](https://play.google.com/store/apps/details?id=com.Ligofff.RandomPoint) - My first mobile game, simple arcade with a point moves on the screen, that you need to catch
 
-#### I work with
+#### My main skills:<br />
 
+* **```Unity / C#```** - i'm pretty good at it, both in game development and creation editor tools. Worked more with 2D.<br />
+* **```ECS```** - created my Delares game based on the Entity Component System, and I gained experience in this approach to game creation. The game used a framework [Entitas-Redux](https://github.com/jeffcampbellmakesgames/Entitas-Redux)<br />
+* **```Odin Inspector```** - i have written quite a few tools using this Editor framework.<br />
+
+My secondary skills:<br />
+
+* ```Python``` - i can write not so big applications/bots in this
+* ```Advanced Linux user``` - spent quite a lot of time setting up servers and administering this system
+* ```Docker``` - deployment, containers setup and other things that allow me to make a handy workflow for the dev team
+* ```Stable-Diffusion``` - advanced work with the image generation neural network for game development, including training custom models, LoRA, writing extensions for Automatic1111
 ------
+
+<a href="https://github.com/fffogil/SimpleTools-CustomSOIcons">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fffogil&repo=SimpleTools-CustomSOIcons" />
+</a>
+
+<a href="https://github.com/fffogil/SimpleTools-CustomSOIcons">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fffogil&repo=SimpleTools-CustomSOIcons" />
+</a>
+
+<a href="https://github.com/fffogil/SimpleTools-CustomSOIcons">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fffogil&repo=SimpleTools-CustomSOIcons" />
+</a>
 
 <a href="https://github.com/fffogil/SimpleTools-CustomSOIcons">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fffogil&repo=SimpleTools-CustomSOIcons" />
