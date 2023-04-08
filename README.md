@@ -32,25 +32,25 @@
 
 <h3 align="center">Indie Game Developer & Middle Unity Programmer</h3>
   
-#### My open-source Unity tools
+#### 📑 My open-source Unity tools
 * [Custom SO Icons](https://github.com/fffogil/SimpleTools-CustomSOIcons) - Simple editor addon that allows to show custom scriptable object icons in the Project view
 * [Runtime Crash Handler](https://github.com/fffogil/SimpleTools-RuntimeCrashHandler) - A small asset for Unity, that catch up all game exceptions and errors, stops game and show window with options
 * [SAPC Pack](https://github.com/fffogil/SimpleTools-SAPC-Pack) - Serializable Actions, Providers and Conditions. Pack of useful serializable classes for using in game developmnet
 
-#### My games
+#### 🧩 My released games
 * [Delares](https://store.steampowered.com/app/1516130/Delares/) - My favorite work - is a deep Action-RPG game that I've been doing for 2+ years. Crytivo acted as the publisher of the game.
 * [Reptile Nemesis](https://ligofff.itch.io/reptile-nemesis) - Straightforward 2D platformer created on 72h gamejam
 * [Sweet Courage](https://ligofff.itch.io/sweet-courage) - Also jam game with a brave candy which trying to save a world
 * [Mine & Hook](https://play.google.com/store/apps/details?id=com.ligofff.MineHook) - Mobile game about miner that trying to escape from caves that are filled with magma
 * [Random Point](https://play.google.com/store/apps/details?id=com.Ligofff.RandomPoint) - My first mobile game, simple arcade with a point moves on the screen, that you need to catch
 
-#### My main skills:<br />
+#### 🥇 My main skills:<br />
 
 * **```Unity / C#```** - i'm pretty good at it, both in game development and creation editor tools. Worked more with 2D.<br />
 * **```ECS```** - created my Delares game based on the Entity Component System, and I gained experience in this approach to game creation. The game used a framework [Entitas-Redux](https://github.com/jeffcampbellmakesgames/Entitas-Redux)<br />
 * **```Odin Inspector```** - i have written quite a few tools using this Editor framework.<br />
 
-My secondary skills:<br />
+🔗 My secondary skills:<br />
 
 * ```Python``` - i can write not so big applications/bots in this
 * ```Advanced Linux user``` - spent quite a lot of time setting up servers and administering this system
@@ -59,7 +59,11 @@ My secondary skills:<br />
 ------
 
 <a href="https://github.com/fffogil/SimpleTools-CustomSOIcons">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fffogil&repo=SimpleTools-CustomSOIcons" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fffogil&repo=SimpleTools-RuntimeCrashHandler" />
+</a>
+
+<a href="https://github.com/fffogil/SimpleTools-CustomSOIcons">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fffogil&repo=SimpleTools-SAPC-Pack" />
 </a>
 
 <a href="https://github.com/fffogil/SimpleTools-CustomSOIcons">
@@ -67,9 +71,5 @@ My secondary skills:<br />
 </a>
 
 <a href="https://github.com/fffogil/SimpleTools-CustomSOIcons">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fffogil&repo=SimpleTools-CustomSOIcons" />
-</a>
-
-<a href="https://github.com/fffogil/SimpleTools-CustomSOIcons">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fffogil&repo=SimpleTools-CustomSOIcons" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fffogil&repo=vk-spam-bot-destroyer" />
 </a>
