@@ -49,6 +49,7 @@
 * **```Unity / C#```** - i'm pretty good at it, both in game development and creation editor tools. Worked more with 2D.<br />
 * **```ECS```** - created my Delares game based on the Entity Component System, and I gained experience in this approach to game creation. The game used a framework [Entitas-Redux](https://github.com/jeffcampbellmakesgames/Entitas-Redux)<br />
 * **```Odin Inspector```** - i have written quite a few tools using this Editor framework.<br />
+* **Also**: ```Code generation```
 
 🔗 My secondary skills:<br />
 
