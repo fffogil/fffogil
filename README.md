@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Aleksey Bandurin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p align="center">
-  <a href="https://t.me/Liga_telega/"> 
+  <a href="https://t.me/ligofff_blog"> 
     <img src="https://img.icons8.com/color/48/null/telegram-app--v1.png"  width="3.5%"/>
   </a><span>&nbsp;</span>
   <a href="mailto:liga@ligofff.ru">
