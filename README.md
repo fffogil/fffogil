@@ -31,6 +31,10 @@
 -->
 
 <h3 align="center">Indie Game Developer & Middle Unity Programmer</h3>
+
+<p align="center">
+> <a href="https://t.me/ligofff_blog"><b>My Telegram channel</b></a> about AI and gamedev < 
+</p>
   
 #### 📑 My open-source Unity tools
 * [Custom SO Icons](https://github.com/fffogil/SimpleTools-CustomSOIcons) - Simple editor addon that allows to show custom scriptable object icons in the Project view
