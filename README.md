@@ -11,7 +11,7 @@
   <a href="mailto:liga@ligofff.ru">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="https://github.com/fffogil">
+  <a href="https://github.com/ligofff">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
   </a><span>&nbsp;</span>
     <a href="https://vk.com/oil_drop">
