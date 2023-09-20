@@ -66,17 +66,17 @@
 ------
 
 <a href="https://github.com/fffogil/SimpleTools-CustomSOIcons">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fffogil&repo=SimpleTools-RuntimeCrashHandler" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ligofff&repo=SimpleTools-RuntimeCrashHandler" />
 </a>
 
 <a href="https://github.com/fffogil/SimpleTools-CustomSOIcons">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fffogil&repo=SimpleTools-SAPC-Pack" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ligofff&repo=SimpleTools-SAPC-Pack" />
 </a>
 
 <a href="https://github.com/fffogil/SimpleTools-CustomSOIcons">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fffogil&repo=SimpleTools-CustomSOIcons" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ligofff&repo=SimpleTools-CustomSOIcons" />
 </a>
 
 <a href="https://github.com/fffogil/SimpleTools-CustomSOIcons">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fffogil&repo=vk-spam-bot-destroyer" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ligofff&repo=vk-spam-bot-destroyer" />
 </a>
