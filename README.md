@@ -52,17 +52,21 @@
 
 #### 🥇 My main skills:<br />
 
-* **```Unity / C#```** - i'm pretty good at it, both in game development and creation editor tools. Worked more with 2D.<br />
-* **```ECS```** - created my Delares game based on the Entity Component System, and I gained experience in this approach to game creation. The game used a framework [Entitas-Redux](https://github.com/jeffcampbellmakesgames/Entitas-Redux)<br />
+* **```Unity / C#```** - **5 years of commertial and indie develop work experience (3/2)**, both in game development and creation editor tools. Worked more with 2D.<br />
+* **```ECS```** - created some little games, and one quite a complex project - Delares game. Mainly use a framework [Entitas-Redux](https://github.com/jeffcampbellmakesgames/Entitas-Redux)<br />
 * **```Odin Inspector```** - i have written quite a few tools using this Editor framework.<br />
-* **Also**: ```Code generation```
 
 🔗 My secondary skills:<br />
 
-* ```Python``` - i can write not so big applications/bots in this
-* ```Advanced Linux user``` - spent quite a lot of time setting up servers and administering this system
+* ```Node.js/React.js/Python``` - Had experience writing small commercial projects, also write not so big applications/bots for myself
+* ```AI integration``` - It's not just about connecting the ChatGPT API, but I was also involved in connecting local GPT models to commercial projects.
 * ```Docker``` - deployment, containers setup and other things that allow me to make a handy workflow for the dev team
+* ```Middle Linux user``` - spent quite a lot of time setting up servers and administering this system
 * ```Stable-Diffusion``` - advanced work with the image generation neural network for game development, including training custom models, LoRA, writing extensions for Automatic1111
+------
+
+* English C1: [EF SET Certificate](https://www.efset.org/cert/nR3tEz) (But it seems to me B2😅)
+
 ------
 
 <a href="https://github.com/fffogil/SimpleTools-CustomSOIcons">
