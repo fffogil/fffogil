@@ -30,7 +30,7 @@
 </p>
 -->
 
-<h3 align="center">Indie Game Developer & Middle Unity Programmer</h3>
+<h3 align="center">Middle Unity Programmer & Indie Game Developer</h3>
 
 <p align="center">
 > <a href="https://t.me/ligofff_blog"><b>My Telegram channel</b></a> about AI and gamedev < 
